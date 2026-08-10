@@ -1,6 +1,6 @@
 # 🐐 Mohd Ayan
 
-  **` Java Full Stack Developer | Teacher `**
+  **` MERN + AI Full Stack Developer | Teacher `**
 
   
 💡 Aspiring Software Engineer. <br> 🎓 3rd year BTech CSE student.<br> 💻 Passionate about Java Full Stack Development.<br> 🚀 Preparing for Software Development Engineer (SDE) roles.<br> 🎮 Love to play games in my free time.
