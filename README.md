@@ -21,7 +21,7 @@
 const dev = {
     name: 'Mohd Ayan',
     role: 'Full-Stack MERN & AI Systems Engineer',
-    education: 'B.Tech CSE (3rd Year)',
+    education: 'B.Tech CSE (4th Year)',
     coreFocus: ['Agentic AI Architectures', 'LLM Orchestration', 'Scalable Microservices', 'MERN Stack'],
     currentProjects: ['CortexAI (Multi-Agent Platform)', 'InterviewIQ.AI (AI Mock Prep)'],
     goals: 'Preparing for SDE roles & engineering high-impact autonomous systems',
@@ -29,7 +29,7 @@ const dev = {
 };
 ```
 
-- 🎓 **Education:** 3rd Year B.Tech Computer Science & Engineering student.
+- 🎓 **Education:** 4th Year B.Tech Computer Science & Engineering student.
 - 🤖 **AI & Agentic Systems:** Expertise in building autonomous multi-agent pipelines with **LangGraph**, **RAG**, **Qdrant Vector DB**, and **Redis**.
 - 💻 **Full-Stack Engineering:** Architecting production-grade MERN stack applications with clean microservices and reactive interfaces.
 - 🏆 **Hackathons & Open Source:** Protex Hackathon developer and active contributor to real-world AI applications.
