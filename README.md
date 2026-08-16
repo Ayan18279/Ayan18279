@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-ayan-b43632384"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mohd-ayan-180654428"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/ayan_18279"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://github.com/Ayan18279"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:ayanmohd18279@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ayanansari102938@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
-  <b>💡 3rd Year B.Tech Computer Science Student | 🚀 Passionate Full-Stack & AI Engineer | 🎮 Gamer & Builder</b>
+  <b>💡 4th Year B.Tech Computer Science Student | 🚀 Passionate Full-Stack & AI Engineer | 🎮 Gamer & Builder</b>
 </p>
 
 ---
